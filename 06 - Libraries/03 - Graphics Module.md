@@ -1,1 +1,1 @@
-This is the graphics module which has a set template all graphics pipelines must some how 
+This is the graphics module which has a set template all graphics pipelines must some how direct / interface with to make graphics work.
