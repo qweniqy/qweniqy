@@ -1,2 +1,2 @@
 - **Python** - Automation, Scripting, Data Processing, Prototyping
-- **Java** - Portable Enterprise Applications
+- **Java** - Enterprise Web Backends
