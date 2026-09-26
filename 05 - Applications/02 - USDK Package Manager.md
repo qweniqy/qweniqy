@@ -1,1 +1,1 @@
-THis application is a directory of all packages submitted and supported by USDK so that you can view things and see what you can use through USDK.
+THis application is a directory of all packages submitted and supported by USDK so that you can view things and see what you can use through USDK. This application will allow you to 
