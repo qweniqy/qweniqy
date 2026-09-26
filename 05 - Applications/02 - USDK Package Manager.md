@@ -1,1 +1,0 @@
-This application will primarily be used for devs to submit there work to my system and add it as a tech stack, it is also available as a way for users of my USDK to view the possible packages they can use. This application will not allow direct installs or other things just view and submit packages.
