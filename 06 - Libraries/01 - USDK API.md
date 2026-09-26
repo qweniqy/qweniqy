@@ -1,1 +1,1 @@
-This is the main application that USDK will be for example when configuring USDK it is the library that is 
+This is the main application API used for programmers to directly include and interact with.
