@@ -6,7 +6,7 @@
 - **Diagrams** - Libre Draw
 - **Knowledge Client** - Obsidian
 - **Knowledge Server** - Github Repo
-- **Code Editor** - Vim
+- **Code Editor** - Jetbrains IDE's
 - **Bitmap Editor** - Gimp
 - **Vector Editor** - Inkscape
 - **3D Modeller** - Blender
