@@ -1,1 +1,1 @@
-Universal Software Development Kit is a large SDK that handles 
+Universal Software Development Kit is a large SDK that handles the backend to any application so that you only have to learn one api and that is USDK, then you can code in any stack and create anything you want.
