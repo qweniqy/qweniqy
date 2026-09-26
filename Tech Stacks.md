@@ -1,2 +1,4 @@
 - **Python** - Automation, Scripting, Data Processing, Prototyping
 - **Java** - Web Backend
+- **Kotlin** - Android Apps
+- ****
