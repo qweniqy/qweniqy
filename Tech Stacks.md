@@ -1,2 +1,1 @@
-## Prototyping
-- **Language** - Python
+- **Python** - Automation, Scripting, Data Processing, Prototyping
