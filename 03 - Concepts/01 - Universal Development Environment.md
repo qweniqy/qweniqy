@@ -13,15 +13,10 @@ For example, a developer could:
 - Build an application entirely using the native USDK ecosystem.
 - Write a 3D game using USDK's language and graphics libraries.
 - Build the same type of application using C and OpenGL.
-    
 - Use Python with an external graphics or game library.
-    
 - Use Java with LWJGL.
-    
 - Mix technologies from different ecosystems when appropriate.
-    
 - Replace individual USDK components with alternative technologies.
-    
 
 The goal is not to force developers into one technology stack, but to provide **one environment in which different technology stacks can coexist**.
 
