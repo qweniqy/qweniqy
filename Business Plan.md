@@ -1,9 +1,5 @@
 # QWENIQY's Business Plan
 
-Absolutely. The new objective makes the whole business much more coherent.
-
-The key change I'd make is this:
-
 > **QWENIQY does not begin with a product idea. It begins with a problem.**
 
 Then the problem is analysed and placed into the appropriate level of the QWENIQY ecosystem:
