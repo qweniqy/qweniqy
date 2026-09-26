@@ -11,13 +11,7 @@ A **System** can contain multiple Applications and Libraries.
 An **Application** solves a defined problem/outcome.  
 A **Library** provides reusable functionality that can support multiple applications/systems.
 
-That gives you a way to stop yourself from randomly starting huge projects just because they sound interesting.
-
-Below is how I would rewrite the entire business plan around that principle.
-
 ---
-
-# QWENIQY Business Plan
 
 ## 1. Business Identity
 
