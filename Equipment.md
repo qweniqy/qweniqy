@@ -15,4 +15,5 @@
 - **Audio Editor** - Audacity
 - **Video Editor** - Kdenlive
 - **Screen Recorder** - OBS
-- ****
+- **ALM (Application Lifecycle Management)** - Github
+- **Version Control** - Git
