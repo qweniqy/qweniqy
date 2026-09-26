@@ -8,7 +8,7 @@
 - **Diagrams** - Libre Draw
 - **Knowledge Client** - Obsidian
 - **Knowledge Server** - Github Repo
-- **Code Editor** - TBD
+- **Code Editor** - Vim
 - **Bitmap Editor** - Gimp
 - **Vector Editor** - Inkscape
 - **3D Modeller** - Blender
