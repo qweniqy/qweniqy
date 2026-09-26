@@ -9,3 +9,6 @@
 - **Knowledge Client** - Obsidian
 - **Knowledge Server** - Github Repo
 - **Code Editor** - TBD
+- **Bitmap Editor** - Gimp
+- **Vector Editor** - Inkscape
+- **3D Modeler**
