@@ -1,1 +1,0 @@
-This is the main application that USDK will be for example when configuring USDK it is the library that is 
