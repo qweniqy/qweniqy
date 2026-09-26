@@ -12,6 +12,3 @@ In essence:
 
 > **Learn one API. Choose any language. Choose any stack. Build anything.**
 
-
-
-[[01 - UDE]]
