@@ -11,4 +11,8 @@
 - **Code Editor** - TBD
 - **Bitmap Editor** - Gimp
 - **Vector Editor** - Inkscape
-- **3D Modeler**
+- **3D Modeller** - Blender
+- **Audio Editor** - Audacity
+- **Video Editor** - Kdenlive
+- **Screen Recorder** - OBS
+- ****
