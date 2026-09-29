@@ -1,4 +1,1 @@
-const menu=document.getElementById('menu'),links=document.getElementById('navlinks');
-    menu.addEventListener('click',()=>{const open=links.classList.toggle('open');menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Close menu':'Open menu')});
-    links.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{links.classList.remove('open');menu.setAttribute('aria-expanded','false')}));
-    document.getElementById('enquiry').addEventListener('submit',e=>{e.preventDefault();const text=document.getElementById('message').value.trim(),safe=document.getElementById('safe').checked,feedback=document.getElementById('feedback');feedback.textContent=!text?'Add a general question to continue.':!safe?'Please confirm that you have removed sensitive information.':'Thanks. This preview does not transmit enquiries; a secure contact route will be added before launch.'});
+
