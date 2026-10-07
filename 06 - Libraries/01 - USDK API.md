@@ -1,1 +1,0 @@
-This is the main application API used for programmers to directly include and interact with.
